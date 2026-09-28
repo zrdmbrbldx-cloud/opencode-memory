@@ -1,0 +1,12 @@
+{
+  "storage": "config",
+  "injectUserMemory": true,
+  "injectProjectMemory": true,
+  "injectRecentLog": true,
+  "recentLogDays": 1,
+  "maxMemoryChars": 4000,
+  "maxLogChars": 3000,
+  "maxInjectChars": 12000,
+  "autoCapture": false,
+  "autoCaptureMinToolCalls": 4
+}
